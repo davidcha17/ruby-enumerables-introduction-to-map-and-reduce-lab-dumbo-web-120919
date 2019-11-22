@@ -65,3 +65,4 @@ def reduce_to_any_true(source_array, starting_point = 0)
     i += 1
   end
   return true
+end
